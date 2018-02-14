@@ -1,0 +1,46 @@
+"Create Permanent Redirect for old URL","Креирање трајно преусмеравање за стари УРЛ адресу",module,Magento_CatalogUrlRewrite
+"Invalid URL key","Неважећи УРЛ кључ",module,Magento_CatalogUrlRewrite
+Root,Корен,module,Magento_Catalog
+Delete,Обриши,module,Magento_Catalog
+Save,Сачувај,module,Magento_Catalog
+"Use Config Settings","Користити конфиг подешавања",module,Magento_Catalog
+"Use All Available Attributes","Користити све доступне атрибуте",module,Magento_Catalog
+ID,ИД,module,Magento_Catalog
+Name,Име,module,Magento_Catalog
+Price,Цена,module,Magento_Catalog
+Position,Позиција,module,Magento_Catalog
+"Add Subcategory","Додај поткатегорију",module,Magento_Catalog
+"Add Root Category","Додај категорију корена",module,Magento_Catalog
+Day,Дан,module,Magento_Catalog
+Month,Месец,module,Magento_Catalog
+Year,Година,module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>од</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>до</span></label>",module,Magento_Catalog
+"WYSIWYG Editor","WYSIWYG Едитор",module,Magento_Catalog
+"Add Product","Додај производ",module,Magento_Catalog
+label,ознака,module,Magento_Catalog
+"Product Attributes","Атрибути производа",module,Magento_Catalog
+"Add New Attribute","Додај нови атрибут",module,Magento_Catalog
+Cancel,Otkaži,module,Magento_Catalog
+"Save Attribute","Сачувај атрибут",module,Magento_Catalog
+"Save in New Attribute Set","Сачувај нови скуп атрибута",module,Magento_Catalog
+"Enter Name for New Attribute Set","Унесите име за нови скуп атрибута",module,Magento_Catalog
+"Save and Continue Edit","Сачувај и настави уређивање",module,Magento_Catalog
+"Delete Attribute","Избриши атрибут",module,Magento_Catalog
+"Edit Product Attribute ""%1""","Уређивање производа атрибута „%1”",module,Magento_Catalog
+"New Product Attribute","Нови производ атрибута",module,Magento_Catalog
+"Advanced Attribute Properties","Напредне опција атрибута",module,Magento_Catalog
+"Attribute Code","Атрибут код",module,Magento_Catalog
+"Default Value","Подразумевану вредност",module,Magento_Catalog
+"Unique Value","Јединствену вредност",module,Magento_Catalog
+"Unique Value (not shared with other products)","Јединствену вредност (не дели се са другим производима)",module,Magento_Catalog
+"Not shared with other products.","Не деле се са другим производима.",module,Magento_Catalog
+"Input Validation for Store Owner","Валидација уноса за власника продавнице",module,Magento_Catalog
+"Add to Column Options","Додај у колону опције",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Изаберите опцију „Да” да бисте додали овај атрибут листу опција колона у мрежи производа.",module,Magento_Catalog
+"Use in Filter Options","Користи у опцијама филтер",module,Magento_Catalog
+"Category URL Suffix","Категорија УРЛ суфикс",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","Потребно је да освежите кеш.",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","УРЛ суфикс производа",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Користите путању категорија за УРЛ адресу производа",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Креирање трајно преусмеравање за УРЛ адресе уколико се промени УРЛ кључ",module,Magento_CatalogUrlRewrite
