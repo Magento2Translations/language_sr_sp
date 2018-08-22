@@ -44,7 +44,6 @@ Close,Затвори,module,Magento_AdminNotification
 "You created the order.","Креирали сте поруџбину.",module,Magento_Authorizenet
 "Order saving error: %1","Грешка код снимања поруџбине: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Молимо да одаберете начин плаћања.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","Дошло је до грешке на серверу. Покушајте да поновите вашу поруџбину.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Кредитна картица: xxxx-%1",module,Magento_Authorizenet
 "amount %1","износ %1",module,Magento_Authorizenet
 failed.,"није успело.",module,Magento_Authorizenet
@@ -70,7 +69,6 @@ void,поништи,module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Трансакција %1 је одбијена/поништена. Статус трансакције је ""%2"". Вредност је %3.",module,Magento_Authorizenet
 "Authorize Only","Само ауторизовати",module,Magento_Authorizenet
 "Authorize and Capture","Одобрити и прихватити",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Није могуће добити информације о трансакцији. Покушајте поново касније.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Електронско плаћање ћува дрвеће.",module,Magento_Authorizenet
 "Credit Card Type","Тип кредитне картице",module,Magento_Authorizenet
 "Please Select","Молим изабрати",module,Magento_Authorizenet
@@ -165,7 +163,6 @@ To,Коме,module,Magento_Backend
 "Invalid export type supplied for grid export block","Неважећи тип извоза обезбеђен за блок извоза координатне мреже",module,Magento_Backend
 Export,Извоз,module,Magento_Backend
 "Please correct the column format and try again.","Молим исправите формат колоне и покушајте поново.",module,Magento_Backend
-"Please select items.","Изаберите ставке.",module,Magento_Backend
 Submit,Пошаљи,module,Magento_Backend
 "Unknown block type","Непознати тип блока",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Молим вас исправите конфигурацију картице и покушајте поново. Ид картица не сме да буде празна",module,Magento_Backend
@@ -187,13 +184,8 @@ Submit,Пошаљи,module,Magento_Backend
 YTD,"ГОДИНА ДО ДАТУМА",module,Magento_Backend
 2YTD,"2 године до датума",module,Magento_Backend
 "Authentication storage is incorrect.","Потврда идентитета за складиштење је неисправна.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","Ви нисте пријавили исправно или је ваш налог привремено онемогућен.",module,Magento_Backend
-"Authentication error occurred.","Дошло је до грешке при пријави.",module,Magento_Backend
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Време трајања сесије за амин-а мора бити мања или једнака 3153600 секунди (1 година)",module,Magento_Backend
-"Admin session lifetime must be greater than or equal to 60 seconds","Време трајања сесије за амин-а мора бити већа или једнако 60 секунди",module,Magento_Backend
 Order,Редослед,module,Magento_Backend
 "Order #%1","Редослед #%1",module,Magento_Backend
-"You need more permissions to access this.","За приступ овом садржају потребно вам је овлашћење.",module,Magento_Backend
 "Welcome, please sign in","Добро дошли, молим вас да се пријавите у",module,Magento_Backend
 Username,"Корисничко име",module,Magento_Backend
 "user name","корисничко име",module,Magento_Backend
@@ -269,7 +261,6 @@ Cancel,Otkaži,module,Magento_Catalog
 Daily,Dnevno,module,Magento_Cron
 Weekly,Седмично,module,Magento_Cron
 Monthly,Месечно,module,Magento_Cron
-"Invalid cron expression: %1","Неважећи израз кронирања: %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Неважећи израз кронирања, очекује се нумерички модул: %1",module,Magento_Cron
 "Some error","Неке грешке",module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Неважећи повратни позив: Not_Existed_Class::execute се не може позвати",module,Magento_Cron
@@ -283,7 +274,6 @@ Import,Увези,module,Magento_CurrencySymbol
 "Save Currency Symbols","Сачувај симболе за валуту",module,Magento_CurrencySymbol
 "Currency Symbols","Симболи за валуту",module,Magento_CurrencySymbol
 "Use Standard","Користи стандардно",module,Magento_CurrencySymbol
-"Please specify a correct Import Service.","Наведите исправну услугу увоза.",module,Magento_CurrencySymbol
 "Click ""Save"" to apply the rates we found.","Кликните на „Сачувај” да бисте применили пронађене камате.",module,Magento_CurrencySymbol
 "Currency Rates",Валута,module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Исправите унос односа претварања „%1 => %2”.",module,Magento_CurrencySymbol
@@ -350,7 +340,6 @@ Developer,Програмер,module,Magento_Backend
 Debug,"Отклањање грешака",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Омогућена путања шаблона за ознаке на излогу",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Омогућена путања шаблона за ознаке за администратора",module,Magento_Backend
-"Add Block Names to Hints","Додавање блок имена за ознаке",module,Magento_Backend
 "Template Settings","Подешавање шаблона",module,Magento_Backend
 "Allow Symlinks","Дозволи симболичке везе",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Упозорење! Омогућавање ове функције се не препоручује у производним окружењима јер представља потенцијални ризик по безбедност.",module,Magento_Backend
@@ -412,7 +401,6 @@ Tags,Ознаке,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Грешка</h1><p>страница није пронађена.</p>",module,Magento_Backend
 "Community Edition","Заједничко издање",module,Magento_Backend
 "Default Theme","Подразумеване теме",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Ако ни једна вредност није наведена, користи се подразумевана. Подразумевана системска вредност се може променити од стране треће стране произвођача.",module,Magento_Backend
 "Applied Theme","Примењена тема",module,Magento_Backend
 "Design Rule","Правило дизајна",module,Magento_Backend
 "User Agent Rules","Правила корисничких агената",module,Magento_Backend
