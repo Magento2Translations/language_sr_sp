@@ -27,6 +27,7 @@ notice,напомена,module,Magento_AdminNotification
 "Wrong message type","Погрешан тип поруке",module,Magento_AdminNotification
 "Wrong notification ID specified.","Погрешно наведен ИД обавештења.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} се не препоручује да користите у производном окружењу за декларисање Заштићене/ Не заштићене УРЛ адресе. Због тога ми препоручујемо да се ова вредност промени Магенто <a href=""%1"">конфигурацији</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Један или више типова кеша су neispravni: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Идите на <a href=""%1""> за управљање кешом </a> и освежите типове кеша.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Нисмо могли да синхронизујемо један или више медијских датотека. Погледајте датотеку са грешкама за детаље.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Синхронизација складишта медија је завршена.",module,Magento_AdminNotification
@@ -37,9 +38,52 @@ notice,напомена,module,Magento_AdminNotification
 "System messages","Системске поруке",module,Magento_AdminNotification
 Close,Затвори,module,Magento_AdminNotification
 "See All (","Погледајте све (",module,Magento_AdminNotification
+" unread)"," непрочитана)",module,Magento_AdminNotification
 "Please correct the data sent.","Молим да исправите послате податке.",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Модел ентитета мора бити инстанца \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Нема доступних типова типова производа који се могу извести",module,Magento_AdvancedPricingImportExport
+"Related Search Terms","Сродни термини за претраживање",module,Magento_AdvancedSearch
+"Add New Search Term","Додај нови термин за претраживање",module,Magento_AdvancedSearch
+button_label,лабела_дугмета,module,Magento_AdvancedSearch
+"Missing search engine parameter.","Недостаје аргумент за претраживање.",module,Magento_AdvancedSearch
+"Successful! Test again?","Успешно! Поново извршите тестирање?",module,Magento_AdvancedSearch
+"Connection failed! Test again?","Повезивање није успело! Поново извршите тестирање?",module,Magento_AdvancedSearch
+"Subscription status","Статус претплате",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Извини, догодила се грешка при обради вашег захтева. Молим покушајте касније.",module,Magento_Analytics
+"Cron settings can't be saved","Подешавање крона није могуће сачувати",module,Magento_Analytics
+"There was an error save new configuration value.","Дошло је до грешке приликом снимања нових вредности за конфигурацију.",module,Magento_Analytics
+"--Please Select--","--Молим изабрати--",module,Magento_Analytics
+"Command was not found.","Команда није пронађена.",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Ови аргументи не могу бити празни „%1”",module,Magento_Analytics
+"Cannot find predefined integration user!","Није могуће пронаћи кориснички дефинисану интеграцију!",module,Magento_Analytics
+"File is not ready yet.","Датотека још увек није спремна.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Твој основни URL је промењен и извештаји се ажурирају. Следећи извештаји биће на располагању када се ова промена обради. Покушајте поново касније.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service. ","Грешка у синхронизацији са Magento Business Intelligence сервисом. ",module,Magento_Analytics
+TestMessage,"Тест порука",module,Magento_Analytics
+"Apps and Games","Апликације и игре",module,Magento_Analytics
+"Athletic/Sporting Goods","Спортске/спортска опрема",module,Magento_Analytics
+"Art and Design","Уметност и дизајн",module,Magento_Analytics
+"Advanced Reporting","Више опција за извештавање",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Постизање нових погледа на ствари и преузимање управљања на пословним перформансама, се постиже коришћењем наших динамичних производа, редослед, и извештаја о купцима прилагођен вашим потребама.",module,Magento_Analytics
+"Go to Advanced Reporting","Иди на више опција за извештавање",module,Magento_Analytics
+Back,Назад,module,Magento_AsynchronousOperations
+Done,Урађено,module,Magento_AsynchronousOperations
+Retry,"Pokusaj ponovo",module,Magento_AsynchronousOperations
+"'Action Details - #' .","'Прикажи детаље - #' .",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 ставкa(е) су планиране за ажурирање”",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Евиденција масовне радње",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","%1 ставка(е) се тренутно ажурира.",module,Magento_AsynchronousOperations
+"Task ""%1"": ","Задатак „%1”: ",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 ставкa(е) су планиране за ажурирање”.",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 ставку(е) је успешно ажурирано.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","Није успео ажурирати %1 ставку(е)",module,Magento_AsynchronousOperations
+Details,Детаљи,module,Magento_AsynchronousOperations
+"View Details","Прикажи детаље",module,Magento_AsynchronousOperations
+Dismiss,Одбаци,module,Magento_AsynchronousOperations
+"Pending, in queue...","Необрађено, у реду чекања...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 одабране ставке за масовно ажурирање",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 је успешно ажурирано",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 није успео ажурирати",module,Magento_AsynchronousOperations
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Дошло је до грешке при комајлирању листе дозвољених ресурса. Извештај о грешкама се може погледати у евиденцији изузетака.",module,Magento_Authorization
 "You created the order.","Креирали сте поруџбину.",module,Magento_Authorizenet
 "Order saving error: %1","Грешка код снимања поруџбине: %1",module,Magento_Authorizenet
@@ -75,6 +119,7 @@ void,поништи,module,Magento_Authorizenet
 "Credit Card Number","Број кредитне картице",module,Magento_Authorizenet
 "Expiration Date","Датум истека",module,Magento_Authorizenet
 "Card Verification Number","Верификациони број картице",module,Magento_Authorizenet
+"Fraud Detection ","Откривање преваре ",module,Magento_Authorizenet
 "FDS Filter Action","ФДС Филтер акција",module,Magento_Authorizenet
 "AVS Response","АВС одзив",module,Magento_Authorizenet
 "Card Code Response","Код одговора картице",module,Magento_Authorizenet
@@ -186,6 +231,11 @@ YTD,"ГОДИНА ДО ДАТУМА",module,Magento_Backend
 "Authentication storage is incorrect.","Потврда идентитета за складиштење је неисправна.",module,Magento_Backend
 Order,Редослед,module,Magento_Backend
 "Order #%1","Редослед #%1",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Извини, треба ти дозвола за приказивање овог садржаја.",module,Magento_Backend
+"Next steps","Наредни кораци",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Ако мислите да је ово је грешка, покушајте са поновном пријавом.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Обратите се администратору система или власнику радње за добијање дозвола.",module,Magento_Backend
+"previous page","претходне страница",module,Magento_Backend
 "Welcome, please sign in","Добро дошли, молим вас да се пријавите у",module,Magento_Backend
 Username,"Корисничко име",module,Magento_Backend
 "user name","корисничко име",module,Magento_Backend
@@ -233,8 +283,6 @@ Position,Позиција,module,Magento_Catalog
 Day,Дан,module,Magento_Catalog
 Month,Месец,module,Magento_Catalog
 Year,Година,module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>од</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>до</span></label>",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Едитор",module,Magento_Catalog
 "Add Product","Додај производ",module,Magento_Catalog
 label,ознака,module,Magento_Catalog
@@ -261,6 +309,7 @@ Cancel,Otkaži,module,Magento_Catalog
 Daily,Dnevno,module,Magento_Cron
 Weekly,Седмично,module,Magento_Cron
 Monthly,Месечно,module,Magento_Cron
+"Invalid cron expression: %1","Неважећи израз кронирања: %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Неважећи израз кронирања, очекује се нумерички модул: %1",module,Magento_Cron
 "Some error","Неке грешке",module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Неважећи повратни позив: Not_Existed_Class::execute се не може позвати",module,Magento_Cron
@@ -283,6 +332,7 @@ System,Систем,module,Magento_CurrencySymbol
 "You must first configure currency options before being able to see currency rates.","Морате прво да подесите опције за валуте пре прегледа односа између валута.",module,Magento_CurrencySymbol
 "Old rate:","Стара вредност:",module,Magento_CurrencySymbol
 "Place Order","Постави поруџбину",module,Magento_Authorizenet
+"Something went wrong.","Нешто кренуло наопако.",module,Magento_AsynchronousOperations
 "Sorry, but something went wrong. Please contact the seller.","Извини, али нешто је кренуло наопако. Молимо вас да контактирате продавца.",module,Magento_Authorizenet
 "Show Toolbar","Прикажи траку са алаткама",module,Magento_AdminNotification
 "Show List","Прикажи листу",module,Magento_AdminNotification
@@ -293,6 +343,70 @@ Severity,Тежина,module,Magento_AdminNotification
 "Date Added","Датум додавања",module,Magento_AdminNotification
 Message,Порука,module,Magento_AdminNotification
 Actions,Акције,module,Magento_AdminNotification
+"Enable Search Recommendations","Омогући препоручену претрагу",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","Када омогућите ову опцију, ваш веб презентација ће успорити.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Број препоручених претрага",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Прикажи резултате бројања за сваку препоруку",module,Magento_AdvancedSearch
+"Enable Search Suggestions","Омогући предлоге за претраживање",module,Magento_AdvancedSearch
+"Search Suggestions Count","Број предлога за претраживање",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Прикажи резултате бројања за сваки предлог",module,Magento_AdvancedSearch
+"Related search terms","Сродни термини за претраживање",module,Magento_AdvancedSearch
+"Did you mean","Да ли сте мислили",module,Magento_AdvancedSearch
+ID,ИД,module,Magento_AdvancedSearch
+"Search Query","Упит за претраживање",module,Magento_AdvancedSearch
+Store,Продавница,module,Magento_AdvancedSearch
+Results,Резултати,module,Magento_AdvancedSearch
+Uses,Користи,module,Magento_AdvancedSearch
+"Redirect URL","Преусмерите URL",module,Magento_AdvancedSearch
+"Suggested Term","Предложени термин",module,Magento_AdvancedSearch
+Yes,Да,module,Magento_AdvancedSearch
+No,Не,module,Magento_AdvancedSearch
+Action,Акција,module,Magento_AdvancedSearch
+Edit,Ажурирај,module,Magento_AdvancedSearch
+Analytics,Аналитика,module,Magento_Analytics
+API,АПИ,module,Magento_Analytics
+Configuration,Конфигурација,module,Magento_Analytics
+"Business Intelligence","Пословна интелигенција",module,Magento_Analytics
+"BI Essentials","BI osnove",module,Magento_Analytics
+"Advanced Reporting Service","Услуга Напредног извештавања",module,Magento_Analytics
+"Time of day to send data","Време за слање података",module,Magento_Analytics
+Industry,Индустрија,module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Молим да подесите вашу индустријску грану у менију Напредна извештавања како би сте добили боље извештаје.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>За више информација погледати Magento Business Intelligence</strong>",module,Magento_Analytics
+"Auto Parts","Ауто делови",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Одеце беба/за децу, опрему и играчке",module,Magento_Analytics
+"Beauty and Cosmetics","Лепота и козметика",module,Magento_Analytics
+"Books, Music and Magazines","Књиге, музика и часописи",module,Magento_Analytics
+"Crafts and Stationery","Занати и подлоге за писање",module,Magento_Analytics
+"Consumer Electronics","Потрошачка електроника",module,Magento_Analytics
+"Deal Site","Места за договор",module,Magento_Analytics
+"Fashion Apparel and Accessories","Модни одељак и прибор",module,Magento_Analytics
+"Food, Beverage and Grocery","Храна, пиће и намирнице",module,Magento_Analytics
+"Home Goods and Furniture","Опрема за кућу и намештај",module,Magento_Analytics
+"Home Improvement","Реновирање дома",module,Magento_Analytics
+"Jewelry and Watches","Накит и сатови",module,Magento_Analytics
+"Mass Merchant",Велепродаја,module,Magento_Analytics
+"Office Supplies","Канцеларијски материјал",module,Magento_Analytics
+"Outdoor and Camping Gear","Опрема за камповање на отвореном простору",module,Magento_Analytics
+"Pet Goods","Опрема за љубимце",module,Magento_Analytics
+"Pharma and Medical Devices","Фармација и медицински уређаји",module,Magento_Analytics
+"Technology B2B","Б2Б технологије",module,Magento_Analytics
+"Action Log","Дневник активности",module,Magento_AsynchronousOperations
+"Bulk Actions","Масовне радње",module,Magento_AsynchronousOperations
+"Days Saved in Log","Дани сачувани у дневнику",module,Magento_AsynchronousOperations
+"Description of Operation","Опис операција",module,Magento_AsynchronousOperations
+Summary,Резиме,module,Magento_AsynchronousOperations
+"Start Time","Време почетка",module,Magento_AsynchronousOperations
+"Items to Retry","Ставке за поновни покушај",module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","За понови покушај, изабрати ставке и кликните на дугме „Покушај поново”.",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","Ставке које није могуће ажурирати.",module,Magento_AsynchronousOperations
+ID,ИД,module,Magento_AsynchronousOperations
+Status,Статус,module,Magento_AsynchronousOperations
+"Meta Information","Мета информације",module,Magento_AsynchronousOperations
+Error,Грешка,module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","Одбацити све завршене задатке",module,Magento_AsynchronousOperations
+"Action Details - #","Детаљи акције - #",module,Magento_AsynchronousOperations
+"Number of Records Affected","Број записа који је утицао на",module,Magento_AsynchronousOperations
 Enabled,Омогућено,module,Magento_Authorizenet
 "Payment Action","Акција плаћања",module,Magento_Authorizenet
 Title,Наслов,module,Magento_Authorizenet
@@ -427,3 +541,5 @@ Pagination,"Нумерисање страна",module,Magento_Backend
 "Failure History Lifetime","Историја неуспеха",module,Magento_Cron
 "Use Separate Process","Користите посебан процес",module,Magento_Cron
 Currency,Валута,module,Magento_CurrencySymbol
+"10 by default. Max - 10000","10 је подразумевана вредност. Маx - 10000",module,Magento_Wishlist
+"255 by default","255 подразумевано",module,Magento_Wishlist
