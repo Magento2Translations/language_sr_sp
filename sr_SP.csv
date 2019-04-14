@@ -1,0 +1,445 @@
+"Read Details","Прочитајте детаље",module,Magento_AdminNotification
+"Mark as Read","Означи као прочитано",module,Magento_AdminNotification
+"Are you sure?","Јесте ли сигурни?",module,Magento_AdminNotification
+Remove,Уклони,module,Magento_AdminNotification
+"Messages Inbox","Примљене поруке",module,Magento_AdminNotification
+"You have %1 new system messages","Имате %1 нових системских порука",module,Magento_AdminNotification
+"You have %1 new system message","Имате %1 нову системску поруку",module,Magento_AdminNotification
+"Incoming Message","Пристигле поруке",module,Magento_AdminNotification
+close,затвори,module,Magento_AdminNotification
+Notifications,Обавештења,module,Magento_AdminNotification
+"The message has been marked as Read.","Порука је означена као прочитана.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","Нисмо могли означити обавештење као прочитано због грешке.",module,Magento_AdminNotification
+"Please select messages.","Молим да одаберете поруке.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Укупно %1 запис(а) је означено као прочитано.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Укупно %1 запис(а) је уклоњено.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Нисмо могли уклонити поруке због грешке.",module,Magento_AdminNotification
+"The message has been removed.","Порука је уклоњена.",module,Magento_AdminNotification
+"1 Hour","1 сат",module,Magento_AdminNotification
+"2 Hours","2 сата",module,Magento_AdminNotification
+"6 Hours","6 сати",module,Magento_AdminNotification
+"12 Hours","12 сати",module,Magento_AdminNotification
+"24 Hours","24 сата",module,Magento_AdminNotification
+critical,критично,module,Magento_AdminNotification
+major,важно,module,Magento_AdminNotification
+minor,неважан(но),module,Magento_AdminNotification
+notice,напомена,module,Magento_AdminNotification
+"Wrong message type","Погрешан тип поруке",module,Magento_AdminNotification
+"Wrong notification ID specified.","Погрешно наведен ИД обавештења.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} се не препоручује да користите у производном окружењу за декларисање Заштићене/ Не заштићене УРЛ адресе. Због тога ми препоручујемо да се ова вредност промени Магенто <a href=""%1"">конфигурацији</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Један или више типова кеша су neispravni: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Идите на <a href=""%1""> за управљање кешом </a> и освежите типове кеша.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Нисмо могли да синхронизујемо један или више медијских датотека. Погледајте датотеку са грешкама за детаље.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Синхронизација складишта медија је завршена.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Ваш веб сервер је неисправно подешен и омогућава неовлашћени приступ осетљивим датотекама. Молимо вас да контактирате вашег провајдера/администратора.",module,Magento_AdminNotification
+"System Messages:","Системске поруке:",module,Magento_AdminNotification
+"Critical System Messages","Критичне системске поруке",module,Magento_AdminNotification
+"Major System Messages","Важне системске поруке",module,Magento_AdminNotification
+"System messages","Системске поруке",module,Magento_AdminNotification
+Close,Затвори,module,Magento_AdminNotification
+"See All (","Погледајте све (",module,Magento_AdminNotification
+" unread)"," непрочитана)",module,Magento_AdminNotification
+"Please correct the data sent.","Молим да исправите послате податке.",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Модел ентитета мора бити инстанца \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Нема доступних типова типова производа који се могу извести",module,Magento_AdvancedPricingImportExport
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Дошло је до грешке при комајлирању листе дозвољених ресурса. Извештај о грешкама се може погледати у евиденцији изузетака.",module,Magento_Authorization
+"You created the order.","Креирали сте поруџбину.",module,Magento_Authorizenet
+"Order saving error: %1","Грешка код снимања поруџбине: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Молимо да одаберете начин плаћања.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Дошло је до грешке на серверу. Покушајте да поновите вашу поруџбину.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Кредитна картица: xxxx-%1",module,Magento_Authorizenet
+"amount %1","износ %1",module,Magento_Authorizenet
+failed.,"није успело.",module,Magento_Authorizenet
+successful.,успешно.,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net ИД трансакције %1.",module,Magento_Authorizenet
+authorize,одобри,module,Magento_Authorizenet
+"authorize and capture","одобри и прихвати",module,Magento_Authorizenet
+capture,прихвати,module,Magento_Authorizenet
+refund,"повраћај новца",module,Magento_Authorizenet
+void,поништи,module,Magento_Authorizenet
+"Gateway error: %1","Грешка код мрежног пролаза: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Дошло је до грешке при проласку до плаћања.",module,Magento_Authorizenet
+"Invalid amount for capture.","Неисправна вредност за прихватање.",module,Magento_Authorizenet
+"Payment capturing error.","Грешка код прихватања плаћања.",module,Magento_Authorizenet
+"Invalid transaction ID.","Неисправан ИД трансакције.",module,Magento_Authorizenet
+"Payment voiding error.","Грешка код поништавања плаћања.",module,Magento_Authorizenet
+"Invalid amount for refund.","Неисправна вредност за повраћај новца.",module,Magento_Authorizenet
+"Payment refunding error.","Грешка плаћања код повраћаја новца.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","Трансакција је одбијена јер није прошла проверу података.",module,Magento_Authorizenet
+"There was a payment authorization error.","Дошло је до грешке при ауторизацији плаћања.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","Молим унети ИД трансакције за ауторизацију овог плаћања.",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Трансакција %1 је одобрена. Вредност %2. Статус трансакције је ""%3""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Трансакција %1 је одбијена/поништена. Статус трансакције је ""%2"". Вредност је %3.",module,Magento_Authorizenet
+"Authorize Only","Само ауторизовати",module,Magento_Authorizenet
+"Authorize and Capture","Одобрити и прихватити",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","Није могуће добити информације о трансакцији. Покушајте поново касније.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Електронско плаћање ћува дрвеће.",module,Magento_Authorizenet
+"Credit Card Type","Тип кредитне картице",module,Magento_Authorizenet
+"Please Select","Молим изабрати",module,Magento_Authorizenet
+"Credit Card Number","Број кредитне картице",module,Magento_Authorizenet
+"Expiration Date","Датум истека",module,Magento_Authorizenet
+"Card Verification Number","Верификациони број картице",module,Magento_Authorizenet
+"Fraud Detection ","Откривање преваре ",module,Magento_Authorizenet
+"FDS Filter Action","ФДС Филтер акција",module,Magento_Authorizenet
+"AVS Response","АВС одзив",module,Magento_Authorizenet
+"Card Code Response","Код одговора картице",module,Magento_Authorizenet
+"CAVV Response","CAVV одговор",module,Magento_Authorizenet
+"Fraud Filters","Филтери против преваре",module,Magento_Authorizenet
+"Invalid Form Key. Please refresh the page.","Неважећи кључ. Освежите страницу.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Унели сте неважећи тајни кључ. Освежите страницу.",module,Magento_Backend
+"Cache Storage Management","Управљање кешом складишта",module,Magento_Backend
+"Flush Magento Cache","Испразни кеш магента",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Кеш складиште може садржати додатне податке. Да ли сте сигурни да желите да их бацимо?",module,Magento_Backend
+"Flush Cache Storage","Пражњење кеш складишта",module,Magento_Backend
+Invalidated,Поништени,module,Magento_Backend
+Orders,Поруџбине,module,Magento_Backend
+Amounts,Износи,module,Magento_Backend
+Bestsellers,Бестселера,module,Magento_Backend
+"Most Viewed Products","Најчешће прегледани производи",module,Magento_Backend
+"New Customers","Нови купци",module,Magento_Backend
+Customers,Купци,module,Magento_Backend
+Customer,Купац,module,Magento_Backend
+Guest,Гост,module,Magento_Backend
+Items,Артикли,module,Magento_Backend
+Total,Укупно,module,Magento_Backend
+"Lifetime Sales","Трајна продаја",module,Magento_Backend
+"Average Order","Просечна поруџбина",module,Magento_Backend
+Average,Просек,module,Magento_Backend
+Product,Производ,module,Magento_Backend
+Price,Цена,module,Magento_Backend
+Quantity,Количина,module,Magento_Backend
+Views,Прикази,module,Magento_Backend
+Revenue,Приход,module,Magento_Backend
+Tax,Порез,module,Magento_Backend
+Shipping,Испорука,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Слике (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Медији (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","Све датотеке",module,Magento_Backend
+"Reset to Default","Постави почетне вредности",module,Magento_Backend
+"All Store Views","Прегледи свих продавница",module,Magento_Backend
+"What is this?","Шта је ово?",module,Magento_Backend
+"Save Account","Сачувај налог",module,Magento_Backend
+"My Account","Мој Налог",module,Magento_Backend
+"Account Information","Информације о корисничком налогу",module,Magento_Backend
+"User Name","Корисничко име",module,Magento_Backend
+"First Name",Име,module,Magento_Backend
+"Last Name",Презиме,module,Magento_Backend
+Email,Е-пошта,module,Magento_Backend
+"User Email","Корисничка е-пошта",module,Magento_Backend
+"New Password","Нова лозинка",module,Magento_Backend
+"Password Confirmation","Potvrda lozinke",module,Magento_Backend
+"Interface Locale","Локални интерфејс",module,Magento_Backend
+"Current User Identity Verification","Верификација идентитета тренутног корисника",module,Magento_Backend
+"Your Password","Ваша лозинка",module,Magento_Backend
+"Save Cache Settings","Сачувај поставке кеширања",module,Magento_Backend
+"Catalog Rewrites","Поново написати каталог",module,Magento_Backend
+Refresh,Освежи,module,Magento_Backend
+"Images Cache","Кеш слике",module,Magento_Backend
+Code,Kod,module,Magento_Backend
+"Root Category","Роот категорија",module,Magento_Backend
+"Default Store View","Приказ подразумеваног складишта",module,Magento_Backend
+"Store View Information","Информације о приказу продавнице",module,Magento_Backend
+Status,Статус,module,Magento_Backend
+Disabled,Онемогућено,module,Magento_Backend
+Enabled,Омогућено,module,Magento_Backend
+"Sort Order","Редослед слагања",module,Magento_Backend
+"Web Site Information","Информације о Веб локацији",module,Magento_Backend
+"Default Store","Подразумевана продавница",module,Magento_Backend
+"Set as Default","Постави као подразумевано",module,Magento_Backend
+Stores,Продавнице,module,Magento_Backend
+"Create Website","Креирање Веб локације",module,Magento_Backend
+"Create Store","Креирање продавнице",module,Magento_Backend
+"Create Store View","Креирање приказа продавнице",module,Magento_Backend
+Home,Почетак,module,Magento_Backend
+Reset,Ресетуј,module,Magento_Backend
+"Are you sure you want to do this?","Да ли сте сигурни да желите да урадите ово?",module,Magento_Backend
+"Add New Image","Додај Слику",module,Magento_Backend
+"Export block for grid %1 is not defined","Извоз блока за мрежу %1 није дефинисан",module,Magento_Backend
+"Reset Filter","Поништавање филтера",module,Magento_Backend
+Search,Претрага,module,Magento_Backend
+Any,"Било који",module,Magento_Backend
+"All Countries","Све земље",module,Magento_Backend
+From,Од,module,Magento_Backend
+To,Коме,module,Magento_Backend
+"Date selector","Избор датума",module,Magento_Backend
+"[ deleted ]",[избрисан],module,Magento_Backend
+"Select All","Изабери све",module,Magento_Backend
+"Add New","Додај нови",module,Magento_Backend
+"Invalid export type supplied for grid export block","Неважећи тип извоза обезбеђен за блок извоза координатне мреже",module,Magento_Backend
+Export,Извоз,module,Magento_Backend
+"Please correct the column format and try again.","Молим исправите формат колоне и покушајте поново.",module,Magento_Backend
+"Please select items.","Изаберите ставке.",module,Magento_Backend
+Submit,Пошаљи,module,Magento_Backend
+"Unknown block type","Непознати тип блока",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Молим вас исправите конфигурацију картице и покушајте поново. Ид картица не сме да буде празна",module,Magento_Backend
+"Please correct the tab configuration and try again.","Молим исправите конфигурацију картице и покушајте поново.",module,Magento_Backend
+"You have logged out.","Одјавили сте се.",module,Magento_Backend
+"The image cache was cleaned.","Слика кеша је очишћена.",module,Magento_Backend
+"An error occurred while clearing the image cache.","Појавила се грешка приликом брисање кеша слике.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","Кеш JavaScrip/CSS кеш је очишћен.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","Појавила се грешка приликом брисање кеша ЈavaScript/CSS.",module,Magento_Backend
+"The static files cache has been cleaned.","Кеш статичних датотека очишћен.",module,Magento_Backend
+"You flushed the cache storage.","Испразнили сте кеш складишта.",module,Magento_Backend
+"The Magento cache storage has been flushed.","Магенто кеш складишта је испражњен.",module,Magento_Backend
+"Cache Management","Управљање кешом",module,Magento_Backend
+"You can't change status of cache type(s) in production mode","Не можете променити статус кеш типовима у продукционом режиму",module,Magento_Backend
+"%1 cache type(s) disabled.","%1 кеш типовима онемогућен.",module,Magento_Backend
+"Last 24 Hours","Задња 24 сата",module,Magento_Backend
+"Last 7 Days","Задњих 7 дана",module,Magento_Backend
+"Current Month","Текући месец",module,Magento_Backend
+YTD,"ГОДИНА ДО ДАТУМА",module,Magento_Backend
+2YTD,"2 године до датума",module,Magento_Backend
+"Authentication storage is incorrect.","Потврда идентитета за складиштење је неисправна.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","Ви нисте пријавили исправно или је ваш налог привремено онемогућен.",module,Magento_Backend
+"Authentication error occurred.","Дошло је до грешке при пријави.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Време трајања сесије за амин-а мора бити мања или једнака 3153600 секунди (1 година)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","Време трајања сесије за амин-а мора бити већа или једнако 60 секунди",module,Magento_Backend
+Order,Редослед,module,Magento_Backend
+"Order #%1","Редослед #%1",module,Magento_Backend
+"You need more permissions to access this.","За приступ овом садржају потребно вам је овлашћење.",module,Magento_Backend
+"Welcome, please sign in","Добро дошли, молим вас да се пријавите у",module,Magento_Backend
+Username,"Корисничко име",module,Magento_Backend
+"user name","корисничко име",module,Magento_Backend
+Password,Лозинка,module,Magento_Backend
+password,лозинка,module,Magento_Backend
+"Sign in","Пријавите се",module,Magento_Backend
+"Select Range:","Избор опсега:",module,Magento_Backend
+"No Data Found","Ни један податак није пронађен",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Графикон је онемогућен. Да бисте омогућили графикон, кликните <a href=""%1"">овде</a>.",module,Magento_Backend
+"Last Orders","Задње наруџбе",module,Magento_Backend
+"Last Search Terms","Последњи тражени појам",module,Magento_Backend
+"Top Search Terms","Најчешће тражени појмови",module,Magento_Backend
+"There are no search keywords.","Нема тражених појмова.",module,Magento_Backend
+"View Statistics For:","Погледајте статистику за:",module,Magento_Backend
+"All Websites","Све Веб локације",module,Magento_Backend
+"Reload Data","Поново учитај податке",module,Magento_Backend
+"Browse Files...","Прикажи датотеке...",module,Magento_Backend
+Magento,Магенто,module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Ауторска права &copy; %1 Magento Commerce Inc. Сва права задржана.",module,Magento_Backend
+"ver. %1","вер. %1",module,Magento_Backend
+"Magento Admin Panel","Магенто админ панел",module,Magento_Backend
+"Account Setting","Подешавања налога",module,Magento_Backend
+"Customer View","Приказ купца",module,Magento_Backend
+"Sign Out",Одјава,module,Magento_Backend
+"About the calendar","О календару",module,Magento_Backend
+Close,Затвори,module,Magento_Backend
+"Go Today","Иди данас",module,Magento_Backend
+Previous,Претходно,module,Magento_Backend
+Next,Следеће,module,Magento_Backend
+WK,Седмица,module,Magento_Backend
+Time,Време,module,Magento_Backend
+"Create Permanent Redirect for old URL","Креирање трајно преусмеравање за стари УРЛ адресу",module,Magento_CatalogUrlRewrite
+"Invalid URL key","Неважећи УРЛ кључ",module,Magento_CatalogUrlRewrite
+Root,Корен,module,Magento_Catalog
+Delete,Обриши,module,Magento_Catalog
+Save,Сачувај,module,Magento_Catalog
+"Use Config Settings","Користити конфиг подешавања",module,Magento_Catalog
+"Use All Available Attributes","Користити све доступне атрибуте",module,Magento_Catalog
+ID,ИД,module,Magento_Catalog
+Name,Име,module,Magento_Catalog
+Price,Цена,module,Magento_Catalog
+Position,Позиција,module,Magento_Catalog
+"Add Subcategory","Додај поткатегорију",module,Magento_Catalog
+"Add Root Category","Додај категорију корена",module,Magento_Catalog
+Day,Дан,module,Magento_Catalog
+Month,Месец,module,Magento_Catalog
+Year,Година,module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>од</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>до</span></label>",module,Magento_Catalog
+"WYSIWYG Editor","WYSIWYG Едитор",module,Magento_Catalog
+"Add Product","Додај производ",module,Magento_Catalog
+label,ознака,module,Magento_Catalog
+"Product Attributes","Атрибути производа",module,Magento_Catalog
+"Add New Attribute","Додај нови атрибут",module,Magento_Catalog
+Cancel,Otkaži,module,Magento_Catalog
+"Save Attribute","Сачувај атрибут",module,Magento_Catalog
+"Save in New Attribute Set","Сачувај нови скуп атрибута",module,Magento_Catalog
+"Enter Name for New Attribute Set","Унесите име за нови скуп атрибута",module,Magento_Catalog
+"Save and Continue Edit","Сачувај и настави уређивање",module,Magento_Catalog
+"Delete Attribute","Избриши атрибут",module,Magento_Catalog
+"Edit Product Attribute ""%1""","Уређивање производа атрибута „%1”",module,Magento_Catalog
+"New Product Attribute","Нови производ атрибута",module,Magento_Catalog
+"Advanced Attribute Properties","Напредне опција атрибута",module,Magento_Catalog
+"Attribute Code","Атрибут код",module,Magento_Catalog
+"Default Value","Подразумевану вредност",module,Magento_Catalog
+"Unique Value","Јединствену вредност",module,Magento_Catalog
+"Unique Value (not shared with other products)","Јединствену вредност (не дели се са другим производима)",module,Magento_Catalog
+"Not shared with other products.","Не деле се са другим производима.",module,Magento_Catalog
+"Input Validation for Store Owner","Валидација уноса за власника продавнице",module,Magento_Catalog
+"Add to Column Options","Додај у колону опције",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Изаберите опцију „Да” да бисте додали овај атрибут листу опција колона у мрежи производа.",module,Magento_Catalog
+"Use in Filter Options","Користи у опцијама филтер",module,Magento_Catalog
+Daily,Dnevno,module,Magento_Cron
+Weekly,Седмично,module,Magento_Cron
+Monthly,Месечно,module,Magento_Cron
+"Invalid cron expression: %1","Неважећи израз кронирања: %1",module,Magento_Cron
+"Invalid cron expression, expecting numeric modulus: %1","Неважећи израз кронирања, очекује се нумерички модул: %1",module,Magento_Cron
+"Some error","Неке грешке",module,Magento_Cron
+"Invalid callback: Not_Existed_Class::execute can't be called","Неважећи повратни позив: Not_Existed_Class::execute се не може позвати",module,Magento_Cron
+"Test exception","Тест изузетак",module,Magento_Cron
+"Save Currency Rates","Сачувај валута",module,Magento_CurrencySymbol
+Options,Опције,module,Magento_CurrencySymbol
+Reset,Ресетуј,module,Magento_CurrencySymbol
+Import,Увези,module,Magento_CurrencySymbol
+"Manage Currency Rates","Управљање валута",module,Magento_CurrencySymbol
+"Import Service","Увоз услуга",module,Magento_CurrencySymbol
+"Save Currency Symbols","Сачувај симболе за валуту",module,Magento_CurrencySymbol
+"Currency Symbols","Симболи за валуту",module,Magento_CurrencySymbol
+"Use Standard","Користи стандардно",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Наведите исправну услугу увоза.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Кликните на „Сачувај” да бисте применили пронађене камате.",module,Magento_CurrencySymbol
+"Currency Rates",Валута,module,Magento_CurrencySymbol
+"Please correct the input data for ""%1 => %2"" rate.","Исправите унос односа претварања „%1 => %2”.",module,Magento_CurrencySymbol
+"All valid rates have been saved.","Све важеће стопе су сачуване.",module,Magento_CurrencySymbol
+System,Систем,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","Ви сте применили прилагођен симбол ознаке валуте.",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Морате прво да подесите опције за валуте пре прегледа односа између валута.",module,Magento_CurrencySymbol
+"Old rate:","Стара вредност:",module,Magento_CurrencySymbol
+"Place Order","Постави поруџбину",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Извини, али нешто је кренуло наопако. Молимо вас да контактирате продавца.",module,Magento_Authorizenet
+"Show Toolbar","Прикажи траку са алаткама",module,Magento_AdminNotification
+"Show List","Прикажи листу",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Користите HTTPS за Get Feed",module,Magento_AdminNotification
+"Update Frequency","Фреквенција ажурирања",module,Magento_AdminNotification
+"Last Update","Последње ажурирање",module,Magento_AdminNotification
+Severity,Тежина,module,Magento_AdminNotification
+"Date Added","Датум додавања",module,Magento_AdminNotification
+Message,Порука,module,Magento_AdminNotification
+Actions,Акције,module,Magento_AdminNotification
+Enabled,Омогућено,module,Magento_Authorizenet
+"Payment Action","Акција плаћања",module,Magento_Authorizenet
+Title,Наслов,module,Magento_Authorizenet
+"API Login ID","ИД за пријављивање АПИ",module,Magento_Authorizenet
+"Transaction Key","Кључ трансакције",module,Magento_Authorizenet
+"Merchant MD5","МД5 продавца",module,Magento_Authorizenet
+"New Order Status","Нови статус поруџбине",module,Magento_Authorizenet
+"Test Mode","Тест режим",module,Magento_Authorizenet
+"Gateway URL","УРЛ адреса мрежног пролаза",module,Magento_Authorizenet
+"Transaction Details URL","УРЛ адреса детаљи трансакције",module,Magento_Authorizenet
+"Accepted Currency","Прихваћене валуте",module,Magento_Authorizenet
+Debug,"Отклањање грешака",module,Magento_Authorizenet
+"Email Customer","Е -поште купца",module,Magento_Authorizenet
+"Merchant's Email","Емаил трговаца",module,Magento_Authorizenet
+"Credit Card Types","Тип кредитне картице",module,Magento_Authorizenet
+"Credit Card Verification","Верификација кредитне картице",module,Magento_Authorizenet
+"Payment from Applicable Countries","Плаћање из земаља где је применљиво",module,Magento_Authorizenet
+"Payment from Specific Countries","Плаћања из одређених земаља",module,Magento_Authorizenet
+"Minimum Order Total","Минимални износ поруџбине",module,Magento_Authorizenet
+"Maximum Order Total","Минимални износ поруџбине",module,Magento_Authorizenet
+"Sort Order","Редослед слагања",module,Magento_Authorizenet
+Settings,Подешавања,module,Magento_Backend
+Attributes,Атрибути,module,Magento_Backend
+"Other Settings","Остале поставке",module,Magento_Backend
+"Data Transfer","Пренос података",module,Magento_Backend
+"Magento Connect","Магенто повезивање",module,Magento_Backend
+"Connect Manager","Повежите менаџера",module,Magento_Backend
+"Package Extensions","Екстензије пакета",module,Magento_Backend
+Tools,Алати,module,Magento_Backend
+"Web Setup Wizard","Чаробњак за подешавање Веба",module,Magento_Backend
+Currency,Валута,module,Magento_Backend
+Communications,Комуникација,module,Magento_Backend
+Services,Услуге,module,Magento_Backend
+Advanced,Напредно,module,Magento_Backend
+"Disable Modules Output","Онемогући излазне модуле",module,Magento_Backend
+"Store Email Addresses","Сачувај Е-маил адресе",module,Magento_Backend
+"Custom Email 1","Прилагођен е-маил 1",module,Magento_Backend
+"Sender Email","Адреса пошиљаоца",module,Magento_Backend
+"Sender Name","Име пошиљаоца",module,Magento_Backend
+"Custom Email 2","Прилагођен е-маил 2",module,Magento_Backend
+"General Contact","Општи контакт",module,Magento_Backend
+"Sales Representative","Представник продаје",module,Magento_Backend
+"Customer Support","Подршка за кориснике",module,Magento_Backend
+Developer,Програмер,module,Magento_Backend
+Debug,"Отклањање грешака",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Омогућена путања шаблона за ознаке на излогу",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Омогућена путања шаблона за ознаке за администратора",module,Magento_Backend
+"Add Block Names to Hints","Додавање блок имена за ознаке",module,Magento_Backend
+"Template Settings","Подешавање шаблона",module,Magento_Backend
+"Allow Symlinks","Дозволи симболичке везе",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Упозорење! Омогућавање ове функције се не препоручује у производним окружењима јер представља потенцијални ризик по безбедност.",module,Magento_Backend
+"Minify Html","Умањен Html",module,Magento_Backend
+"Minification is not applied in developer mode.","Умањивање се не примењује у режиму ""Програмер"".",module,Magento_Backend
+"Translate Inline","Преведи при уписивању",module,Magento_Backend
+"Enabled for Storefront","Омогућено за излог",module,Magento_Backend
+"Enabled for Admin","Омогућено за администратора",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Преводе, блокови и друге кеш излазе треба онемогућити за излог и за администрацију уметнутих превода.",module,Magento_Backend
+"JavaScript Settings","JavaScript подешавања",module,Magento_Backend
+"Merge JavaScript Files","Спој JavaScript датотеке",module,Magento_Backend
+"Enable JavaScript Bundling","Омогући JavaScript повезивање",module,Magento_Backend
+"Minify JavaScript Files","Смањи JavaScript датотеке",module,Magento_Backend
+"CSS Settings","CSS подешавања",module,Magento_Backend
+"Merge CSS Files","Спајање CSS датотека",module,Magento_Backend
+"Minify CSS Files","Смањивање CSS датотека",module,Magento_Backend
+"Image Processing Settings","Подешавање обраде слика",module,Magento_Backend
+"Image Adapter","Прилагођавање слика",module,Magento_Backend
+"Static Files Settings","Подешавање статичних датотека",module,Magento_Backend
+"Sign Static Files","Потписивање статичних датотека",module,Magento_Backend
+"Country Options","Подешавање државе",module,Magento_Backend
+"Allow Countries","Допуштене државе",module,Magento_Backend
+"Default Country","Подразумевана држава",module,Magento_Backend
+"Auto-redirect to Base URL","Ауто - преусмеравање на основну УРЛ адресу",module,Magento_Backend
+"Search Engine Optimization","Оптимизација програма за претраживање",module,Magento_Backend
+"Use Web Server Rewrites","Користи Веб сервер за поновно писање",module,Magento_Backend
+"Base URLs","Основне УРЛ адресе",module,Magento_Backend
+"Base URL","Основни УРЛ",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Наведите УРЛ адресу или {{base_url}} placeholder.",module,Magento_Backend
+"Base Link URL","Веза ка основној УРЛ адреси",module,Magento_Backend
+"Base URL for Static View Files","Основни УРЛ за статички приказ датотека",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Може бити празно или почети са {{unsecure_base_url}} контејнер-ом.",module,Magento_Backend
+"Base URL for User Media Files","Основни УРЛ за медијске датотеке корисника",module,Magento_Backend
+"Base URLs (Secure)","Основни УРЛ (сигурне) адресе",module,Magento_Backend
+"Secure Base URL","Осигурајте основни УРЛ",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Наведите УРЛ или {{base_url}}, или {{unsecure_base_url}} контејнер.",module,Magento_Backend
+"Secure Base Link URL","Осигурајте основни линк УРЛ",module,Magento_Backend
+"Secure Base URL for Static View Files","Основни УРЛ за статички приказ датотека",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Може бити празно или почети са {{secure_base_url}}, или {{unsecure_base_url}} контејнер.",module,Magento_Backend
+"Secure Base URL for User Media Files","Осигурајте основни УРЛ за медијске датотеке корисника",module,Magento_Backend
+"Use Secure URLs on Storefront","Користите сигурне УРЛ адресе за излог",module,Magento_Backend
+"Use Secure URLs in Admin","Користите сигурне УРЛ-ове за администратора",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Омогућавање HTTP строге безбедности у комуникацији (HSTS)",module,Magento_Backend
+"Upgrade Insecure Requests","Надоградите несигурне захтеве",module,Magento_Backend
+"Offloader header","Offloader заглавље",module,Magento_Backend
+"Default Pages","Подразумеванe страницe",module,Magento_Backend
+"Default Web URL","Подразумевана Веб УРЛ адреса",module,Magento_Backend
+"Default No-route URL","Нема подразумеване УРЛ руте",module,Magento_Backend
+"Session Validation Settings","Подешавање ваљаности сесије",module,Magento_Backend
+"Validate REMOTE_ADDR","Провери ваљаност REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","Провери ваљаност HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","Провери ваљаност HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","Провери ваљаност HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","Користи СИД за излог",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Омогући корисницима да остану пријављени при пребацивању између различитих продавница.",module,Magento_Backend
+"Cache Type","Тип кеширања",module,Magento_Backend
+Description,Опис,module,Magento_Backend
+Tags,Ознаке,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Грешка</h1><p>страница није пронађена.</p>",module,Magento_Backend
+"Community Edition","Заједничко издање",module,Magento_Backend
+"Default Theme","Подразумеване теме",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Ако ни једна вредност није наведена, користи се подразумевана. Подразумевана системска вредност се може променити од стране треће стране произвођача.",module,Magento_Backend
+"Applied Theme","Примењена тема",module,Magento_Backend
+"Design Rule","Правило дизајна",module,Magento_Backend
+"User Agent Rules","Правила корисничких агената",module,Magento_Backend
+Pagination,"Нумерисање страна",module,Magento_Backend
+"How many links to display at once.","Колико веза је потребно за истовремени приказ.",module,Magento_Backend
+"Pagination Frame","Нумерисање страница оквира",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Ако тренутни положај оквира не покрива највећу страницу, то скраћује везу са тренутне позиције на плус/минус ове вредности.",module,Magento_Backend
+"Pagination Frame Skip","Прескочи нумерисање страница оквира",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Алтернативни текст за везу ка претходним страницама у менију нумерисање страница. Ако је празан, користи подразумевану слику стрелице.",module,Magento_Backend
+"Anchor Text for Previous","Повежите текст за претходним",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Алтернативни текст за везу ка следећим страницама у менију нумерисање страница. Ако је празан, користи подразумевану слику стрелице.",module,Magento_Backend
+"Category URL Suffix","Категорија УРЛ суфикс",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","Потребно је да освежите кеш.",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","УРЛ суфикс производа",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Користите путању категорија за УРЛ адресу производа",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Креирање трајно преусмеравање за УРЛ адресе уколико се промени УРЛ кључ",module,Magento_CatalogUrlRewrite
+"Cron (Scheduled Tasks)","Крон (Планирани задаци)",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","За исправан УРЛ адресе генерисан током извршавања крона уверите се да је та Веб > сигурна и несигурна основна УРЛ адреса тачно постављена. Сва времена су у минутама.",module,Magento_Cron
+"Cron configuration options for group: ","Крон конфигурационе опције за групе: ",module,Magento_Cron
+"Generate Schedules Every","Генерисање распореда сваких",module,Magento_Cron
+"Schedule Ahead for","Планирање унапред за",module,Magento_Cron
+"Missed if Not Run Within","Пропустио ако се не покрене у року од",module,Magento_Cron
+"History Cleanup Every","Чишћење историје сваких",module,Magento_Cron
+"Success History Lifetime","Историја успеха",module,Magento_Cron
+"Failure History Lifetime","Историја неуспеха",module,Magento_Cron
+"Use Separate Process","Користите посебан процес",module,Magento_Cron
+Currency,Валута,module,Magento_CurrencySymbol
